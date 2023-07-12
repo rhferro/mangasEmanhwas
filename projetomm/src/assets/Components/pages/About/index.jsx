@@ -18,11 +18,15 @@ const About = () => {
           <h1>Sobre Nós</h1>
 
           <p>
-            Somos uma loja de venda de mangás e manhwas usado voltados para o
-            publico que deseja colecionar ou mesmo adquirir um produto que
-            gostaria a preços mais em conta.
+            "Bem-vindo à nossa loja de mangás e manhwas usados! Somos uma loja
+            voltada para os entusiastas que desejam colecionar ou adquirir esses
+            produtos a preços mais acessíveis. Nosso compromisso é oferecer um
+            catálogo diversificado, cuidadosamente selecionado, garantindo que
+            cada item esteja em ótimo estado. Valorizamos a satisfação do
+            cliente e estamos aqui para ajudar em sua jornada de colecionador,
+            oferecendo um atendimento acolhedor e uma experiência de compra
+            agradável.
           </p>
-          <p>Prezamos pelo respeito e valorização </p>
         </Col>
       </Row>
     </Container>

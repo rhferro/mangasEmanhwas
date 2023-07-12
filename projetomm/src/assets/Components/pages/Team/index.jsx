@@ -16,17 +16,21 @@ const Team = () => {
         <Col>
           <br />
           <br />
-          <p>Estudante de programação e implementador desse site.</p>
+          <h5>Raphael Ferro</h5>
+          <p>
+            Estudante de programação e implementador desse site. Apaixonado por
+            tecnologia e em entender como ela funciona.
+          </p>
         </Col>
       </Row>
       <br /> <br />{" "}
       <Row>
         <Col>
           <br />
-
+          <h5>Chat GPT</h5>
           <p>
-            IA auxiliadora de temas para o site e possibilidades de abordagens
-            aos clientes.
+            IA auxiliadora fornencendo informações de mercado e sugestões de
+            abordagem do tema.
           </p>
         </Col>
         <Col xs={6} md={4}>

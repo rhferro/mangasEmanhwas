@@ -10,6 +10,7 @@
 }
 
 .publiRight {
-  position: absolute;
+  position: fixed;
+  top: 8rem;
   right: 50px;
 }
